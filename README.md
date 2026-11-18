@@ -13,9 +13,9 @@ in three days. You spend an afternoon with your agent building it, submit a publ
 commit, and the grader scores it against every other entry. That is the whole loop. This guide walks you through
 it from zero — no account, no idea how any of this works — to your first submitted entry.
 
-> **New here? Sign up with my link:** [https://make.fun/r/znec2tsd](https://make.fun/r/znec2tsd)
+> **New here? Sign up with my link:** [https://make.fun/r/svztvwhg](https://make.fun/r/svztvwhg)
 >
-> My referral code is `znec2tsd`.
+> My referral code is `svztvwhg`.
 
 ## Contents
 
@@ -67,7 +67,7 @@ Three things worth knowing before you start:
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/znec2tsd](https://make.fun/r/znec2tsd) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/svztvwhg](https://make.fun/r/svztvwhg) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. None of them costs anything, and signing in
    with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture and a short bio.
@@ -251,7 +251,7 @@ after they sign up, which make.fun pays on top so their own reward stays whole. 
 worth right now and everything you have earned are on the **Referrals** tab of your profile. Every reward is
 reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/znec2tsd) (code `znec2tsd`) is a nice way to
+If this guide helped, signing up through [my link](https://make.fun/r/svztvwhg) (code `svztvwhg`) is a nice way to
 say thanks.
 
 ## Questions
@@ -304,4 +304,4 @@ and home paths before upload, and `bundle --redact "<text>"` removes any other p
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/znec2tsd · code `znec2tsd`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/svztvwhg · code `svztvwhg`</sub>
